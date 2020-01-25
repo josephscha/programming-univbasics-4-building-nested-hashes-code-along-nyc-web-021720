@@ -17,13 +17,11 @@ def third_challenge
       :hero_friends => [
         {
         :name => "Benvolio",
-        :age => "17",
-        :attitude => "worried"
+        :age => "17"
    },
    {
         :name => "Mercutio",
-        :age => "18",
-        :attitude => "hot-headed"
+        :age => "18"
    }
         ]
    }, 
